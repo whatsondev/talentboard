@@ -1,0 +1,380 @@
+@font-face {
+  font-family: 'wp-jobsearch-icomoon';
+  src:  url('./../fonts/icomoon.eot?ye2mdh');
+  src:  url('./../fonts/icomoon.eot?ye2mdh#iefix') format('embedded-opentype'),
+    url('./../fonts/icomoon.ttf?ye2mdh') format('truetype'),
+    url('./../fonts/icomoon.woff?ye2mdh') format('woff'),
+    url('./../fonts/icomoon.svg?ye2mdh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.jobsearch-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'wp-jobsearch-icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.jobsearch-twitter-logo:before {
+  content: "\e900";
+}
+.jobsearch-twitter-circular-button:before {
+  content: "\e901";
+}
+.jobsearch-twitter-line:before {
+  content: "\e902";
+}
+.jobsearch-resume-document:before {
+  content: "\e903";
+}
+.jobsearch-paper:before {
+  content: "\e904";
+}
+.jobsearch-coding:before {
+  content: "\e905";
+}
+.jobsearch-office:before {
+  content: "\e906";
+}
+.jobsearch-24-hours:before {
+  content: "\e907";
+}
+.jobsearch-company-workers:before {
+  content: "\e908";
+}
+.jobsearch-graphic:before {
+  content: "\e909";
+}
+.jobsearch-support:before {
+  content: "\e90a";
+}
+.jobsearch-pen:before {
+  content: "\e90b";
+}
+.jobsearch-search-1:before {
+  content: "\e90c";
+}
+.jobsearch-handshake:before {
+  content: "\e90d";
+}
+.jobsearch-office2:before {
+  content: "\e90e";
+}
+.jobsearch-check-square:before {
+  content: "\e90f";
+}
+.jobsearch-arrows-4:before {
+  content: "\e910";
+}
+.jobsearch-arrows-3:before {
+  content: "\e911";
+}
+.jobsearch-building:before {
+  content: "\e912";
+}
+.jobsearch-curriculum:before {
+  content: "\e913";
+}
+.jobsearch-user-2:before {
+  content: "\e914";
+}
+.jobsearch-discuss-issue:before {
+  content: "\e915";
+}
+.jobsearch-newspaper:before {
+  content: "\e916";
+}
+.jobsearch-fax:before {
+  content: "\e917";
+}
+.jobsearch-placeholder:before {
+  content: "\e918";
+}
+.jobsearch-linkedin-logo:before {
+  content: "\e919";
+}
+.jobsearch-facebook-logo-1:before {
+  content: "\e91a";
+}
+.jobsearch-summary:before {
+  content: "\e91b";
+}
+.jobsearch-calendar-1:before {
+  content: "\e91c";
+}
+.jobsearch-valentines-heart:before {
+  content: "\e91d";
+}
+.jobsearch-check-sign-in-a-rounded-black-square:before {
+  content: "\e91e";
+}
+.jobsearch-check-box-empty:before {
+  content: "\e91f";
+}
+.jobsearch-checked:before {
+  content: "\e920";
+}
+.jobsearch-linkedin-1:before {
+  content: "\e921";
+}
+.jobsearch-user-1:before {
+  content: "\e922";
+}
+.jobsearch-star-1:before {
+  content: "\e923";
+}
+.jobsearch-upload:before {
+  content: "\e924";
+}
+.jobsearch-plus:before {
+  content: "\e925";
+}
+.jobsearch-credit-card-1:before {
+  content: "\e926";
+}
+.jobsearch-star:before {
+  content: "\e927";
+}
+.jobsearch-right-arrow-1:before {
+  content: "\e928";
+}
+.jobsearch-credit-card:before {
+  content: "\e929";
+}
+.jobsearch-time:before {
+  content: "\e92a";
+}
+.jobsearch-folder:before {
+  content: "\e92b";
+}
+.jobsearch-group:before {
+  content: "\e92c";
+}
+.jobsearch-linkedin:before {
+  content: "\e92d";
+}
+.jobsearch-facebook-logo-in-circular-button-outlined-social-symbol:before {
+  content: "\e92f";
+}
+.jobsearch-internet:before {
+  content: "\e930";
+}
+.jobsearch-calendar:before {
+  content: "\e931";
+}
+.jobsearch-view:before {
+  content: "\e932";
+}
+.jobsearch-rubbish:before {
+  content: "\e933";
+}
+.jobsearch-edit:before {
+  content: "\e934";
+}
+.jobsearch-resume-1:before {
+  content: "\e935";
+}
+.jobsearch-logout:before {
+  content: "\e936";
+}
+.jobsearch-multimedia:before {
+  content: "\e937";
+}
+.jobsearch-id-card:before {
+  content: "\e938";
+}
+.jobsearch-alarm:before {
+  content: "\e939";
+}
+.jobsearch-briefcase-1:before {
+  content: "\e93a";
+}
+.jobsearch-resume:before {
+  content: "\e93b";
+}
+.jobsearch-google-plus-logo-button:before {
+  content: "\e93c";
+}
+.jobsearch-add:before {
+  content: "\e93d";
+}
+.jobsearch-download-arrow:before {
+  content: "\e93e";
+}
+.jobsearch-technology:before {
+  content: "\e93f";
+}
+.jobsearch-mail:before {
+  content: "\e940";
+}
+.jobsearch-trophy:before {
+  content: "\e941";
+}
+.jobsearch-design-skills:before {
+  content: "\e942";
+}
+.jobsearch-mortarboard:before {
+  content: "\e943";
+}
+.jobsearch-network:before {
+  content: "\e944";
+}
+.jobsearch-user:before {
+  content: "\e945";
+}
+.jobsearch-briefcase:before {
+  content: "\e946";
+}
+.jobsearch-social-media:before {
+  content: "\e947";
+}
+.jobsearch-salary:before {
+  content: "\e948";
+}
+.jobsearch-check-mark:before {
+  content: "\e949";
+}
+.jobsearch-sort:before {
+  content: "\e94a";
+}
+.jobsearch-envelope:before {
+  content: "\e94b";
+}
+.jobsearch-add-list:before {
+  content: "\e94c";
+}
+.jobsearch-squares:before {
+  content: "\e94d";
+}
+.jobsearch-list:before {
+  content: "\e94e";
+}
+.jobsearch-up-arrow-1:before {
+  content: "\e94f";
+}
+.jobsearch-right-arrow:before {
+  content: "\e950";
+}
+.jobsearch-instagram-logo:before {
+  content: "\e951";
+}
+.jobsearch-linkedin-button:before {
+  content: "\e952";
+}
+.jobsearch-dribbble-logo:before {
+  content: "\e953";
+}
+.jobsearch-facebook-logo:before {
+  content: "\e955";
+}
+.jobsearch-play-button:before {
+  content: "\e956";
+}
+.jobsearch-arrows-1:before {
+  content: "\e957";
+}
+.jobsearch-arrows:before {
+  content: "\e958";
+}
+.jobsearch-two-quotes:before {
+  content: "\e959";
+}
+.jobsearch-left-quote:before {
+  content: "\e95a";
+}
+.jobsearch-filter-tool-black-shape:before {
+  content: "\e95b";
+}
+.jobsearch-maps-and-flags:before {
+  content: "\e95c";
+}
+.jobsearch-heart:before {
+  content: "\e95d";
+}
+.jobsearch-business:before {
+  content: "\e95e";
+}
+.jobsearch-fast-food:before {
+  content: "\e95f";
+}
+.jobsearch-books:before {
+  content: "\e960";
+}
+.jobsearch-antenna:before {
+  content: "\e961";
+}
+.jobsearch-hospital:before {
+  content: "\e962";
+}
+.jobsearch-accounting:before {
+  content: "\e963";
+}
+.jobsearch-car:before {
+  content: "\e964";
+}
+.jobsearch-engineer:before {
+  content: "\e965";
+}
+.jobsearch-search:before {
+  content: "\e966";
+}
+.jobsearch-down-arrow:before {
+  content: "\e967";
+}
+.jobsearch-location:before {
+  content: "\e968";
+}
+.jobsearch-portfolio:before {
+  content: "\e969";
+}
+.jobsearch-up-arrow:before {
+  content: "\e96a";
+}
+.jobsearch-arrows-2:before {
+  content: "\e96b";
+}
+.jobsearch-arrow-right2:before {
+  content: "\ea3c";
+}
+.jobsearch-arrow-left2:before {
+  content: "\ea40";
+}
+.jobsearch-arrows4:before {
+  content: "\eaef";
+}
+.jobsearch-arrows22:before {
+  content: "\eb2d";
+}
+.jobsearch-signs22:before {
+  content: "\eb44";
+}
+.jobsearch-squares2:before {
+  content: "\eb45";
+}
+.jobsearch-arrows32:before {
+  content: "\eb60";
+}
+.jobsearch-map-location:before {
+  content: "\eb6e";
+}
+.jobsearch-mark2:before {
+  content: "\eb73";
+}
+.jobsearch-map3:before {
+  content: "\eb76";
+}
+.jobsearch-tool4:before {
+  content: "\eb7d";
+}
+.jobsearch-buildings2:before {
+  content: "\eb92";
+}

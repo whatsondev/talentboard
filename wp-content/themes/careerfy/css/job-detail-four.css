@@ -1,0 +1,182 @@
+.careerfy-jobdetail-four-list {
+	float: left;
+	width: 100%;
+	background: url(./../extra-images/jobdetail-four-full-bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	padding: 50px 0px 95px 0px;
+	margin-bottom: -100px;
+}
+.careerfy-jobdetail-four-list .container {
+	position: relative; }
+.careerfy-jobdetail-four-list-inn {
+    display: flex;
+    width: 100%;
+    gap: 30px;
+    align-items: center;
+}
+.careerfy-jobdetail-four-transparent {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: #364e66;
+	opacity: 0.80;
+}
+.careerfy-jobdetail-four-list figure {
+	display: flex;
+	width: 287px;
+	min-width: 287px;
+	margin-bottom: 0px;
+	border: 1px solid #ffffff;
+	text-align: center;
+	min-height: 260px;
+	padding: 15px;
+	background-color: #ffffff;
+	overflow: hidden;
+}
+.careerfy-jobdetail-four-list figure a {
+	width: 100%; }
+.careerfy-jobdetail-four-list-text {
+    line-height: 1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+.careerfy-jobdetail-four-list-status {
+	display: inline-block;
+	padding: 10px 15px;
+	background-color: #542dff;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+	border-radius: 80px;
+}
+.careerfy-jobdetail-four-list-status.color {
+	background-color: #53b427; }
+.careerfy-jobdetail-four-list-text h1 {
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 1.2;
+	color: #ffffff;
+	margin-bottom: 0px;
+	display: block;
+	width: 100%;
+}
+.careerfy-jobdetail-four-options {
+	display: flex;
+	width: 100%;
+	gap: 10px;
+	flex-wrap: wrap;
+}
+.careerfy-jobdetail-four-options li {
+	display: inline-flex;
+	list-style: none;
+	color: #ffffff;
+	gap: 8px;
+}
+.careerfy-jobdetail-four-options li a {
+	color: #ffffff;
+	display: inline-flex;
+	gap: 8px;
+	align-items: center;
+}
+.careerfy-jobdetail-four-options li i {
+	font-size: 16px;
+}
+.careerfy-jobdetail-four-options li small {
+	font-style: italic;
+}
+.careerfy-jobdetail-four-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 13px 24px;
+	background-color: #f8b00e;
+	color: #ffffff;
+	font-weight: 600;
+	border-radius: 4px;
+	gap: 8px;
+}
+.careerfy-jobdetail-four-btn i {
+	font-size: 18px;
+}
+.careerfy-jobdetail-four-media {
+	display: inline-flex;
+	gap: 10px;
+	align-items: center;
+}
+.careerfy-jobdetail-four-media li {
+	display: inline-flex;
+	list-style: none;
+	color: #ffffff;
+	font-weight: 600;
+}
+.careerfy-jobdetail-four-links {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	margin-top: 20px;
+	align-items: center;
+	gap: 10px;
+}
+.careerfy-jobdetail-four-links a {
+	display: inline-flex;
+	padding: 12px 15px;
+	line-height: 1;
+	border: 1px solid #e3e3e3;
+	border-radius: 5px;
+	font-weight: 500;
+	-webkit-transition: all 0.4s ease-in-out;
+       -moz-transition: all 0.4s ease-in-out;
+        -ms-transition: all 0.4s ease-in-out;
+         -o-transition: all 0.4s ease-in-out;
+            transition: all 0.4s ease-in-out;
+}
+.careerfy-jobdetail-four-btn:hover {
+    color: #fff;
+}
+.careerfy-jobdetail-four-links a i {
+	font-size: 16px;
+	color: #53b427;
+	float: left;
+	margin: -1px 7px 0px 0px;
+}
+.careerfy-jobdetail-four-links a.color1 {
+	background-color: #53b427;
+	color: #ffffff;
+	border-color: #53b427;
+}
+.careerfy-jobdetail-four-links a.color2 {
+	background-color: #007ab9;
+	color: #ffffff;
+	border-color: #007ab9;
+}
+.careerfy-jobdetail-four-links a.color3 {
+	background-color: #3b5998;
+	color: #ffffff;
+	border-color: #3b5998;
+}
+.jobsearch-applyjob-google-btn {
+	background-color: #fb353f;
+	color: #ffffff;
+}
+.careerfy-jobdetail-four-links a.jobsearch-applyjob-google-btn i,
+.careerfy-jobdetail-four-links a.color2 i,
+.careerfy-jobdetail-four-links a.color3 i {
+	color: #ffffff; }
+.bottom-spacer {
+	float: left;
+	width: 100%;
+	margin-bottom: 40px;
+}
+.common-header-transparent ~ .careerfy-jobdetail-four-list {
+	padding-top: 140px; }
+.careerfy-jobdetail-four-links a.color1:hover {
+    background-color: transparent;
+    color: #53b427;
+}
